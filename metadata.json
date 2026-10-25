@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - MERN Collaborative Kanban",
+  "description": "Production-ready MERN task management and collaborative Kanban platform with JWT authentication and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
